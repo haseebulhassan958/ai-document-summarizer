@@ -28,6 +28,12 @@ Step 4: Open browser and go to:
 http://localhost:8501
 
 -----------------------------------------
+BONUS FEATURES:
+-----------------------------------------
+- Streamlit Web UI for live summarization
+- Language Detection (detects input language using langdetect library)
+
+-----------------------------------------
 PROJECT FILES:
 -----------------------------------------
 app.py          -> Streamlit UI

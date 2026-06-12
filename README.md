@@ -27,6 +27,7 @@ using Natural Language Processing (NLP) techniques.
 - Text Statistics (Words, Sentences, Characters)
 - Export Summary as .TXT file
 - Streamlit Web UI (Bonus)
+- Language Detection (Bonus)
 
 ---
 
